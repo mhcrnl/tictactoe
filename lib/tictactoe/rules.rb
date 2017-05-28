@@ -1,3 +1,11 @@
+=begin
+    file:       rules.rb
+    created:    28.05.2017
+    class:      Rules
+    methods:    1. check_move
+                2. check_win
+                3. check_draw
+=end
 module TicTacToe
   module Rules
     def check_move

@@ -1,3 +1,14 @@
+=begin
+    file:       game.rb
+    created:    28.05.2017
+    class:      Game
+    methods:    1. initialize
+                2. play
+                3. start_new_turn
+                4. show_board
+                5. game_over
+                6. move_input
+=end
 module TicTacToe
   class Game
     include TicTacToe::Rules
