@@ -1,4 +1,5 @@
 =begin
+    program:    tictactoe => x and 0
     file:       rules.rb
     created:    28.05.2017
     class:      Rules
